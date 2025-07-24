@@ -31,7 +31,6 @@ Build a user interface for taking a simple quiz with randomly selected questions
 
 ---
 
-## 🧪 How to Run
 
 
    
