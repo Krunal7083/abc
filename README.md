@@ -33,7 +33,5 @@ Build a user interface for taking a simple quiz with randomly selected questions
 
 ## 🧪 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/think41-quiz-app.git
+
    
